@@ -15,9 +15,18 @@ SmartEA是我开启的一个新的项目，主要面向量化交易做的项目�
 <img width="1394" alt="image" src="https://github.com/user-attachments/assets/1ceb2542-db2a-47d2-a9fa-991757307915" />
 
 ## 部分收益截图
+### 自己实盘的结果
 <img width="1263" alt="image" src="https://github.com/user-attachments/assets/73cd8032-ea4b-4753-a464-d36c20b5bf65" />
 <img width="1264" alt="image" src="https://github.com/user-attachments/assets/63bdaa06-989b-4142-ade8-028a6c3e31c8" />
 <img width="1263" alt="image" src="https://github.com/user-attachments/assets/1424a4c1-21f2-4c14-b984-c1b82e5e4199" />
+
+### 客户实盘的结果
+<img width="1411" alt="image" src="https://github.com/user-attachments/assets/f3048fe7-2ebc-4d94-8ef6-385a3c9293fa" />
+<img width="1402" alt="image" src="https://github.com/user-attachments/assets/93a2e12f-3bd0-4b51-8ab5-0dd3a8b76544" />
+<img width="1404" alt="image" src="https://github.com/user-attachments/assets/ee4d6235-7ee4-4ad9-a37c-7dbe88bda25b" />
+<img width="1406" alt="image" src="https://github.com/user-attachments/assets/29930111-9fa3-4a38-9b77-bcbfa670f152" />
+<img width="1405" alt="image" src="https://github.com/user-attachments/assets/422c278e-971a-47d1-ab14-e3ee49562a75" />
+
 
 ## 更新日志
 
